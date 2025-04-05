@@ -35,8 +35,9 @@ There are two main ways to install this library: globally or for a specific proj
 
 ## Contributing
 
-[./documentation/contribution_guidelines.md]
+Please read the entire [contribution_guidelines.md](./documentation/contribution_guidelines.md) document to contribute.
+
 
 ## License
 
-[./LICENSE]
+[GNU GPL v3](./LICENSE)
