@@ -5,7 +5,7 @@ This is a work in progress and being completed in my spare time, so bare with it
 
 # KiCAD Vacuum Tube Amplifier Library
 
-This library provides a comprehensive collection of symbols, footprints, and 3D models for designing vacuum tube amplifiers in KiCAD.
+#### This library provides a comprehensive collection of symbols, footprints, and 3D models for designing vacuum tube amplifiers in KiCAD.
 
 ## Installation
 
