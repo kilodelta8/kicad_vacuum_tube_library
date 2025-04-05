@@ -35,8 +35,8 @@ There are two main ways to install this library: globally or for a specific proj
 
 ## Contributing
 
-[Link to your contribution guidelines if you plan to accept contributions]
+[./documentation/contribution_guidelines.md]
 
 ## License
 
-[GPLv3]
+[./LICENSE]
