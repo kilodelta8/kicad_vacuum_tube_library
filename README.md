@@ -1,7 +1,7 @@
 # kicad_vacuum_tube_library
 A complete vacuum tube amplifier library for KiCAD, finally.
 
-** _This is a work in progress and being completed in my spare time, so bare with it......_ **
+> ** _This is a work in progress and being completed in my spare time, so bare with it......_ **
 
 # KiCAD Vacuum Tube Amplifier Library
 
