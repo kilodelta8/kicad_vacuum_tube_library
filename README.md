@@ -40,4 +40,4 @@ Please read the entire [contribution_guidelines.md](./documentation/contribution
 
 ## License
 
-[GNU GPL v3](./LICENSE)
+[BSD](./LICENSE)
